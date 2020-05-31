@@ -12,7 +12,7 @@ void setup()
   pinMode(buzzPin, OUTPUT);
   delay(3000);
   digitalWrite(buzzPin, HIGH);
-  delay(500);
+  delay(1000);
 }
 
 void loop()
